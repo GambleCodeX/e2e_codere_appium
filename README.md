@@ -75,7 +75,8 @@ Follow the below commands
 
 - Execute `allure:report` script to get the test execution results. After executing, if everything went well we should see the following report
 
-  <img width="833" alt="image" src="https://github.com/lokali/e2e_codere_appium/assets/101832531/e7d5e652-9ca8-448d-a0ef-914412e35085">
+<img width="842" alt="image" src="https://github.com/lokali/e2e_codere_automation/assets/101832531/845f27c5-ca3d-45ae-ae70-91d6b0249763">
+
 
 
 ### VSCode tricks
